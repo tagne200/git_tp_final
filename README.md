@@ -1,3 +1,5 @@
+> **À propos de ce dépôt :** fork de [charlesl76/git_tp_final](https://github.com/charlesl76/git_tp_final), réalisé pour un TP d'initiation à Git et GitHub. L'énoncé d'origine suit sans modification. Voir aussi [docs/DOCUMENTATION.md](docs/DOCUMENTATION.md).
+
 # TP final de Git
 
 ## Explication du TP
